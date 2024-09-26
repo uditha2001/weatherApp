@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urls>
+	<current>http://api.weatherapi.com/v1/current.json</current>
+	<forecast> http://api.weatherapi.com/v1/forecast.json</forecast>
+	<history>http://api.weatherapi.com/v1/history.json</history>
+	<marine>http://api.weatherapi.com/v1/marine.json</marine>
+	<astronomy>http://api.weatherapi.com/v1/astronomy.json</astronomy>
+</urls>

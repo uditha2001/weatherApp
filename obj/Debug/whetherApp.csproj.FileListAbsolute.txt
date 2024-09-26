@@ -1,0 +1,9 @@
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\bin\Debug\whetherApp.exe.config
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\bin\Debug\whetherApp.exe
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\bin\Debug\whetherApp.pdb
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\obj\Debug\whetherApp.csproj.AssemblyReference.cache
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\obj\Debug\whetherApp.Properties.Resources.resources
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\obj\Debug\whetherApp.csproj.GenerateResource.cache
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\obj\Debug\whetherApp.csproj.CoreCompileInputs.cache
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\obj\Debug\whetherApp.exe
+G:\CAMPUS\2--LV2\Sem 2\RAD project\whetherApp\obj\Debug\whetherApp.pdb
